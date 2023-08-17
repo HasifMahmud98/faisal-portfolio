@@ -916,6 +916,7 @@ header .menu-btn span:after {
 @media (max-width: 1080px) {
 	.section.service .title {
 		margin-bottom: 20px;
+		line-height: 32px;
 	}
 
 }
